@@ -1,0 +1,60 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=RFMX9HCW_QT_XIAO_Backpack_v1
+*Date=20:34:20
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;12.0561;-14.475;0;Bottom;J4
+2;;;18.1574;-4.27128;90;Top;Pad46
+3;;;1.91817;-16.259;90;Top;Pad42
+4;;;1.91817;-14.2494;90;Top;Pad43
+5;;;17.7711;-16.015;0;Bottom;Pad33
+6;;;1.92572;-6.22854;90;Top;Pad45
+7;;;1.89609;-16.015;0;Bottom;Pad36
+8;;THT;8.24609;-12.4778;0;Bottom;J3
+9;;;18.1574;-2.27158;90;Top;Pad47
+10;;;5.36577;-8.23036;0;Bottom;TXT4
+11;;;5.0586;-15.9445;0;Bottom;TXT4
+12;;;5.27171;-10.6763;0;Bottom;TXT4
+13;;;7.65134;-1.96539;0;Bottom;TXT5
+14;;;14.9531;-8.07296;0;Bottom;TXT6
+15;;;4.91678;-5.97676;0;Bottom;TXT4
+16;;;5.0985;-6.13856;0;Bottom;TXT6
+17;;;14.5732;-3.99234;0;Bottom;TXT6
+18;;THT;2.53109;-19.825;0;Bottom;Ant.
+19;;;1.89609;-13.475;0;Bottom;Pad34
+20;;;5.14578;-14.1022;0;Bottom;TXT6
+21;;;17.7711;-10.935;0;Bottom;Pad40
+22;;;17.7711;-13.475;0;Bottom;Pad41
+23;;;1.92572;-8.25557;90;Top;Pad44
+24;;;15.0163;-2.1156;0;Bottom;TXT6
+25;;;1.89609;-10.935;0;Bottom;Pad35
+26;;;15.3483;-0.789636;0;Bottom;TXT5
+27;;;5.20344;-16.0385;0;Bottom;TXT6
+28;;;4.82769;-0.715939;0;Bottom;TXT5
+29;;;15.0425;-16.1;0;Bottom;TXT6
+30;;;18.1574;-12.1876;90;Top;Pad50
+31;;;5.07107;-13.3104;0;Bottom;TXT4
+32;;;18.1574;-8.25557;90;Top;Pad49
+33;;;15.4134;-10.0792;0;Bottom;TXT6
+34;;;18.1574;-16.259;90;Top;Pad52
+35;;;1.89609;-8.395;0;Bottom;Pad39
+36;;;14.5781;-12.0855;0;Bottom;TXT6
+37;;;18.1574;-10.2477;90;Top;Pad51
+38;;u.fl;6.34109;-20.08;90;Top;u.FL
+39;;;12.0561;-2.68001;0;Bottom;Via1
+40;;;14.7358;-6.03361;0;Bottom;TXT6
+41;;;1.89609;-5.855;0;Bottom;Pad38
+42;;;18.1574;-6.22856;90;Top;Pad48
+43;;;5.1231;-8.1779;0;Bottom;TXT6
+44;;;17.7711;-18.555;0;Bottom;Pad37
+45;1µF;1206 [SMD, multilayer];13.0461;-19.825;180;Top;10uF 1206
